@@ -1,0 +1,23 @@
+# alias for vim and nvim
+alias vi="vim"
+alias vim="nvim"
+alias view="nvim -R"
+alias vimdiff="nvim -d"
+
+# alias for github
+alias gst="git status"
+alias gpll="git pull"
+alias gpsh="git push"
+alias gd="git diff | mate"
+alias gau="git add --update"
+alias gc="git commit -v"
+alias gca="git commit -v -a"
+alias gb="git branch"
+alias gba="git branch -a"
+alias gco="git checkout"
+alias gcob="git checkot -b"
+alias gcot="git checkout -t"
+alias gcotb="git checkout --track -b"
+alias glog="git log"
+alias glogp="git log --pretty=format:'%h %s' --graph"
+alias glogs="git shortlog"
