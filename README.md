@@ -27,10 +27,23 @@ $ git clone git@github.com/binlama/dotfiles.git
 $ cd dotfiles
 ```
 
+For mac, install the following:
+
+```
+wget
+bash
+luarocks
+fd or fdfind
+lazygit
+fzf
+```
+
 Then use GNU stow to create symlinks
 
 ```
+
 $ stow zhs
 $ stow nvim
 $ stow bash
+
 ```
