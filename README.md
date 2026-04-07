@@ -37,6 +37,7 @@ For mac, install the following:
 
 ```
 homebrew
+nerdicons
 wget
 bash
 luarocks
