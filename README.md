@@ -29,9 +29,6 @@ git clone git@github.com/binlama/dotfiles.git
 ```
 cd dotfiles
 ```
-```
-```
-```
 
 For mac, install the following:
 
