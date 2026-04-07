@@ -43,7 +43,7 @@ fzf
 ripgrep
 ```
 
-- Install [nerdIcons](https://www.nerdfonts.com/font-downloads)
+Install [nerdIcons](https://www.nerdfonts.com/font-downloads)
 
 Then use GNU stow to create symlinks
 
