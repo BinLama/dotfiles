@@ -23,19 +23,27 @@ sudo apt install stow
 First, check out the dotfiles repo in your $HOME directory using git
 
 ```
-$ git clone git@github.com/binlama/dotfiles.git
-$ cd dotfiles
+git clone git@github.com/binlama/dotfiles.git
+```
+
+```
+cd dotfiles
+```
+```
+```
 ```
 
 For mac, install the following:
 
 ```
+homebrew
 wget
 bash
 luarocks
 fd or fdfind
 lazygit
 fzf
+ripgrep
 ```
 
 Then use GNU stow to create symlinks
