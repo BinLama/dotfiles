@@ -52,5 +52,6 @@ Then use GNU stow to create symlinks
 $ stow zhs
 $ stow nvim
 $ stow bash
+$ stow tmux
 
 ```
